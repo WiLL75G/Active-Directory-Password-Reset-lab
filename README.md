@@ -125,16 +125,8 @@ The password reset dialog allows the administrator to define a new password and 
 
 ---
 
-# 🏁 Conclusion
+# Conclusion
 
 This lab demonstrates foundational **Active Directory password management skills**, enabling administrators to efficiently manage user account security and authentication.  
 
 It provides practical exposure to locating users, resetting passwords, and applying account policies — key skills for entry-level IT and system administration roles.
-
----
-
-## 👤 Author
-
-**Gokah William**  
-IT & System Administration Professional  
-Focused on Active Directory, User Management, and Entry-Level IT Skills
